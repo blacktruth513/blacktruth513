@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!
 
 <p>
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -9,10 +9,21 @@
 
 
 ```
-불가능해 보이는 문제에 도전하고 성공하는 것에 익숙해진 개발자  
+<p>
+&nbsp; I'm a growing <b>Data Scientist</b> using python<br/> 
+👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+</p>
 ```
 
 ---
+
+
+<p>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
+  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
 
 
 ### Skills
