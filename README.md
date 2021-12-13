@@ -11,7 +11,8 @@
 ### About Myself
 
 <P>
-I majored in Sinology (Department of Chinese Studies) and Department of Hospitality, Tourism and Foodservice Management at <a href="http://www.sejong.ac.kr/">Sejong University,</a>
+I majored in Sinology (Department of Chinese Studies) and <br>
+Department of Hospitality, Tourism and Foodservice Management at <a href="http://www.sejong.ac.kr/">Sejong University,</a> </br>
  
 </p> 
 <p>
