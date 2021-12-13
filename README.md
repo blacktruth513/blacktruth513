@@ -9,6 +9,11 @@
 ---
 
 ### About Myself
+
+<P>
+I majored in Sinology (Department of Chinese Studies) and Department of Hospitality, Tourism and Foodservice Management at <a href="http://www.sejong.ac.kr/">Sejong University,</a>
+ 
+</p> 
 <p>
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:chj125a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chj125a@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
