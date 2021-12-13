@@ -1,20 +1,27 @@
 ### Hello World!
 
-<p>
- Hi there! I'm <b>growing Data Scientist</b> using Python. :bulb:<br/>
-  I enjoy reading books, listening music, riding bicycle, Australia. :books::bicyclist:🦘 <br/>
-  I believe 'Data-Driven Thinking' can change world the better place. 
-</p>
-
+ - Hi there! I'm <b>growing Data Scientist</b> using Python. :bulb:<br/>
+ - I enjoy reading books, listening music, riding bicycle, Australia. :books::bicyclist:🦘 <br/>
+ - I believe 'Data-Driven Thinking' can change world the better place. 
+ 
 ---
 
 ### About Myself
 
-<P>
+<p>
 I majored in Sinology (Department of Chinese Studies) and <br>
 Department of Hospitality, Tourism and Foodservice Management at <a href="http://www.sejong.ac.kr/">Sejong University,</a> </br>
- 
-</p> 
+</p>
+
+---
+
+### What I'm interested in 
+
+ - ML/DL
+ -
+ -
+
+
 <p>
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:chj125a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chj125a@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
