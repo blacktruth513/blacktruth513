@@ -1,6 +1,14 @@
 ### Hello World!
 
 <p>
+ Hi there! I'm <b>growing Data Scientist</b> using Python. :bulb:<br/>
+  I enjoy reading books, listening music, riding bicycle, Australia. :books::bicyclist:🦘 <br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
+
+---
+
+<p>
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:chj125a@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chj125a@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,22 +16,6 @@
 </p>
 
 
-```
-<p>
-&nbsp; I'm a growing <b>Data Scientist</b> using python<br/> 
-👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-</p>
-```
-
----
-
-
-<p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
 
 
 ### Skills
