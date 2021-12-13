@@ -1,7 +1,7 @@
 ### Hello World!
 
  - Hi there! I'm <b>growing Data Scientist</b> using Python. :bulb:<br/>
- - I enjoy reading books, listening music, riding bicycle, Australia. :books::bicyclist:🦘 <br/>
+ - I enjoy reading books, listening music, riding bicycle, Australian Summer. :books::bicyclist:🦘 <br/>
  - I believe 'Data-Driven Thinking' can change world the better place. 
  
 ---
