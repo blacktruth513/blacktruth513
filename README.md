@@ -19,19 +19,18 @@ Department of Hospitality, Tourism and Foodservice Management at <a href="http:/
 
  - ML/DL Development
  - NLP(Natural Language Processing)
- - Statistical Analysis
+ - Statistical Analysis & Data Visualization
  - Google Analytics
-
+ - Marketing
 ---
 
-### Core Skill
+### Core Skill :zap:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-### Techs that I've used at least once
+### Techs that I've used at least once :satellite:
 
 <p>
- <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
  <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -39,5 +38,9 @@ Department of Hospitality, Tourism and Foodservice Management at <a href="http:/
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
+### Techs that I'm intersted in :seedling:
 
-
+<p> 
+ <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+ 
