@@ -31,6 +31,7 @@ Department of Hospitality, Tourism and Foodservice Management at <a href="http:/
 ### Techs that I've used at least once :satellite:
 
 <p>
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GitL&logoColor=white"/>
  <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
