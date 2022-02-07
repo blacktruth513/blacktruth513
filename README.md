@@ -42,6 +42,5 @@ Department of Hospitality, Tourism and Foodservice Management at <a href="http:/
 ### Techs that I'm intersted in :seedling:
 
 <p> 
- <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
  
